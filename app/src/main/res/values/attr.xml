@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="PointerProgressView">
+        <attr name="progressBackground" format="color" />
+        <attr name="progressHeight" format="dimension" />
+        <attr name="progressColor" format="color" />
+        <attr name="pointerColor" format="color" />
+        <attr name="pointerTextColor" format="color" />
+        <attr name="pointerTextSize" format="dimension" />
+        <attr name="pointerMargin" format="dimension" />
+        <attr name="pointerPadding" format="dimension" />
+        <attr name="pointerHeight" format="dimension" />
+    </declare-styleable>
+</resources>
